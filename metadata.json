@@ -1,0 +1,6 @@
+{
+  "name": "UniversityOS — Enterprise Academic SIS",
+  "description": "Accessible, mobile-responsive Enterprise Student Information System with full dark mode support and offline data caching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
